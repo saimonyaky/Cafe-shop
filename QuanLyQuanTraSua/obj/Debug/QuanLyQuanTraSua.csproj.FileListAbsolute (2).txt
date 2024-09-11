@@ -1,0 +1,13 @@
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.login.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources

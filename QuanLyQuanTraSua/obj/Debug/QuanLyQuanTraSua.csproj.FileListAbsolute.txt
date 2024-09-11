@@ -1,0 +1,53 @@
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.login.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\QuanLyQuanTraSua\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAdmin.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.login.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAccountProfile.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fTableManager.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAccountProfile.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAdmin.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fTableManager.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.login.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+D:\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAccountProfile.resources
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fAdmin.resources
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.fTableManager.resources
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.login.resources
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+C:\Users\Nguyen Tuan\Downloads\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
